@@ -77,7 +77,7 @@ jupyter notebook notebooks/house_price_fhe_demo.ipynb
 
 **Fully Homomorphic Encryption (FHE)** allows computation on encrypted data without the need to decrypt it. This enables secure data processing in privacy-sensitive environments.
 
-We use **Concrete-ML** from [Zama](https://www.zama.ai/) to perform encrypted inference on house price prediction models.
+We use **Concrete-ML** to perform encrypted inference on house price prediction models.
 
 ---
 
