@@ -1,5 +1,5 @@
 
-# 🏠 FHE House Price Predictions
+# 🏠 FHE House Price Predictions Gopi Vardhan Vallabhaneni
 
 This project leverages **Fully Homomorphic Encryption (FHE)** techniques to enable **secure and private house price predictions**. The goal is to demonstrate how encrypted data can be processed and analyzed without compromising user privacy.
 
